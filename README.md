@@ -14,3 +14,5 @@ To insert more stuff once I learn Markdown from these references
 1. https://www.markdowntutorial.com/lesson/1/ 
 2. https://www.markdownguide.org/
 3. https://youtu.be/HUBNt18RFbo
+4. https://en.m.wikipedia.org/wiki/Jamstack
+5. https://blog.dreamfactory.com/the-importance-of-loose-coupling-in-rest-api-design/
