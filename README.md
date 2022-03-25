@@ -1,5 +1,5 @@
 # Learning Markdown
-A repository where I document my learning process of learning the Markdown language
+A repository where I document my process of learning the Markdown language
 
 ## What is Markdown?
 Markdown is a lightweight markup language that converts text to HTML. In short, it helps to format text that appear on the screen.
