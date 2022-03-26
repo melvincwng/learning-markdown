@@ -132,6 +132,27 @@ References:
     Alternative image (using HTML code - can adjust width & height)
     <img src="https://icon-library.com/images/small-twitter-icon/small-twitter-icon-9.jpg" width="100px" height="100px">
 
+14. Soft breaks - see example below:
+
+    The text should look like this<br/>
+    Without any spaces between the 2 sentences
+
+    - Use either **\<br\>** or use **2 spaces** to force a 'Soft break' between sentences.
+
+15. Hard breaks
+
+    The text should look like this
+
+    With a visible line/space between the 2 sentences
+
+    - Press **'Enter'** in your text editor to to force a 'Hard break' between sentences (go to the next line).
+
+16. To make a URL/Email address clickable on its own - use <insert URL/Email address here>
+
+    <https://www.google.com>
+
+    <jeff@gmail.com>
+
 **B) Github Markdown syntax (Github has their own flavor of using Markdown)**
 
 1. Code Blocks (in GitHub) - Use triple backticks \`\`\` \`\`\`
