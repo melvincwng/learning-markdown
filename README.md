@@ -8,7 +8,12 @@ Markdown is a lightweight markup language that converts text to HTML. In short, 
 
 ## Why am I learning Markdown?
 
-To improve my proficiency in the **JAM stack** (JavaScript, APIs, Markup). It is a tech stack where the application logic typically resides in the client side, without being tightly coupled to the backend server.
+To improve my proficiency in the **JAM stack** (JavaScript, APIs, Markup). It is a tech stack where the application logic typically resides in the client side, without being tightly coupled to the backend server. 
+
+## JAM stack architecture vs Traditional Web architecture
+Reference: https://jamstack.org/ 
+
+<img src="https://d33wubrfki0l68.cloudfront.net/b7d16f7f3654fb8572360301e60d76df254a323e/385ec/img/svg/architecture.svg" />
 
 ## What is Markdown used for?
 
@@ -130,4 +135,5 @@ To improve my proficiency in the **JAM stack** (JavaScript, APIs, Markup). It is
 2. https://www.markdowntutorial.com/lesson/1/
 3. https://www.markdownguide.org/
 4. https://en.m.wikipedia.org/wiki/Jamstack
-5. https://blog.dreamfactory.com/the-importance-of-loose-coupling-in-rest-api-design/
+5. https://jamstack.org/
+6. https://blog.dreamfactory.com/the-importance-of-loose-coupling-in-rest-api-design/
