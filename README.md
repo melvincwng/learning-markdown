@@ -48,7 +48,7 @@ To improve my proficiency in the **JAM stack** (JavaScript, APIs, Markup). It is
 
    ~~This text is strikethrough~~
 
-5. Horizontal Rule (a horizontal line), can use triple --- or \_\_\_
+5. Horizontal Rule (a horizontal line), can use triple --- or \_\_\ or \*\*\*
 
    ***
 
