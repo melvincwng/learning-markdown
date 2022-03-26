@@ -25,18 +25,15 @@ Based on my understanding, what is JAM stack:
 - The dynamic content will then be fetched from the API endpoint & then shown to the user (static + dynamic content together).
 
 **Useful images for visualization**
-
-<img src="https://d33wubrfki0l68.cloudfront.net/b7d16f7f3654fb8572360301e60d76df254a323e/385ec/img/svg/architecture.svg" />
-
-<img src="https://devopedia.org/images/article/78/9117.1525882869.jpg">
-
-<img src="https://www.fullstackpython.com/img/visuals/pelican-flow.jpg">
-
-<img src="https://uploads.toptal.io/blog/image/126943/toptal-blog-image-1534876856505-558f1c71902d47812f218825d358fe4b.png">
-
-<img src="https://bejamas.io/static/1b59935d7ad1796f1c6373d45ba31b76/05035/ssg--intro-1--light.png">
-
-<img src="https://bejamas.io/static/5e89ac2073c9fc3286c7d284b04e5196/07564/ssg--intro-2--light.png">
+<br />
+<span>
+      <img src="https://d33wubrfki0l68.cloudfront.net/b7d16f7f3654fb8572360301e60d76df254a323e/385ec/img/svg/architecture.svg" width="400px" height="300px"/>
+      <img src="https://devopedia.org/images/article/78/9117.1525882869.jpg" width="400px" height="300px">
+      <img src="https://www.fullstackpython.com/img/visuals/pelican-flow.jpg" width="400px" height="300px">
+      <img src="https://uploads.toptal.io/blog/image/126943/toptal-blog-image-1534876856505-558f1c71902d47812f218825d358fe4b.png" width="400px" height="300px">
+      <img src="https://bejamas.io/static/1b59935d7ad1796f1c6373d45ba31b76/05035/ssg--intro-1--light.png" width="400px" height="300px">
+      <img src="https://bejamas.io/static/5e89ac2073c9fc3286c7d284b04e5196/07564/ssg--intro-2--light.png" width="400px" height="300px">
+</span>
 
 References:
 
