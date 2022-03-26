@@ -8,12 +8,44 @@ Markdown is a lightweight markup language that converts text to HTML. In short, 
 
 ## Why am I learning Markdown?
 
-To improve my proficiency in the **JAM stack** (JavaScript, APIs, Markup). It is a tech stack where the application logic typically resides in the client side, without being tightly coupled to the backend server. 
+To improve my proficiency in the **JAM stack** (JavaScript, APIs, Markup). It is a tech stack where the application logic typically resides in the client side, without being tightly coupled to the backend server.
 
 ## JAM stack architecture vs Traditional Web architecture
-Reference: https://jamstack.org/ 
+
+**Traditional Web**: Client <--> Server <--> Database/CMS
+
+**JAM stack**:
+
+Based on my understanding, what is JAM stack:
+
+- Static Site Generators like Gatsby/Hugo/Jekyll generate the static HTML/CSS/JS files based on your input files (e.g. your Markdown files)
+- These pre-built static HTML/CSS/JS files are then hosted on a CDN, which are served to users when requested.
+- Since they are pre-built, they load very quickly in users' browsers. The static content is then shown to the user (M portion).
+- Simultaneously, the javascript code in the JS file executes in the client/browser (J portion) to handle some logic, for instance, to call API endpoints (A portion) to fetch dynamic content.
+- The dynamic content will then be fetched from the API endpoint & then shown to the user (static + dynamic content together).
+
+**Useful images for visualization**
 
 <img src="https://d33wubrfki0l68.cloudfront.net/b7d16f7f3654fb8572360301e60d76df254a323e/385ec/img/svg/architecture.svg" />
+
+<img src="https://devopedia.org/images/article/78/9117.1525882869.jpg">
+
+<img src="https://www.fullstackpython.com/img/visuals/pelican-flow.jpg">
+
+<img src="https://uploads.toptal.io/blog/image/126943/toptal-blog-image-1534876856505-558f1c71902d47812f218825d358fe4b.png">
+
+<img src="https://bejamas.io/static/1b59935d7ad1796f1c6373d45ba31b76/05035/ssg--intro-1--light.png">
+
+<img src="https://bejamas.io/static/5e89ac2073c9fc3286c7d284b04e5196/07564/ssg--intro-2--light.png">
+
+References:
+
+      [1] https://jamstack.org/
+      [2] https://www.fullstackpython.com/static-site-generator.html
+      [3] https://www.cloudflare.com/en-gb/learning/performance/static-site-generator/
+      [4] https://bejamas.io/discovery/static-site-generators/
+      [5] https://www.toptal.com/front-end/static-site-generators-comparison-2018
+      [6] https://devopedia.org/static-site-generators
 
 ## What is Markdown used for?
 
