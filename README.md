@@ -18,7 +18,7 @@ To improve my proficiency in the **JAM stack** (JavaScript, APIs, Markup). It is
 
 Based on my understanding, what is JAM stack:
 
-- Static Site Generators like Gatsby/Hugo/Jekyll generate the static HTML/CSS/JS files based on your input files (e.g. your Markdown files) & a set of template files (derived from the templating engine used in the SSG).
+- Static Site Generators like Gatsby/Hugo/Jekyll generate the static HTML/CSS/JS files of your website based on your input files (e.g. a) Files that provide the data/content of your website - e.g. Markdown files AND b) Other types of static files - e.g CSS/JS/Images files) & a set of template files (derived from the templating engine used in the SSG).
 - These pre-built static HTML/CSS/JS files are then hosted on a CDN, which are served to users when requested.
 - Since they are pre-built, they load very quickly in users' browsers. The static content is then shown to the user (M portion).
 - Simultaneously, the javascript code in the JS file executes in the client/browser (J portion) to handle some logic, for instance, to call API endpoints (A portion) to fetch dynamic content.
