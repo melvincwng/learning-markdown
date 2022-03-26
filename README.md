@@ -91,7 +91,7 @@ References:
 
    ~~This text is strikethrough~~
 
-6. Horizontal Rule (a horizontal line), can use triple --- or \_\_\ or \*\*\*
+6. Horizontal Rule (a horizontal line), can use triple --- or \_\_\_ or \*\*\*
 
    ***
 
