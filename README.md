@@ -18,11 +18,14 @@ To improve my proficiency in the **JAM stack** (JavaScript, APIs, Markup). It is
 
 Based on my understanding, what is JAM stack:
 
-- Static Site Generators like Gatsby/Hugo/Jekyll generate the static HTML/CSS/JS files of your website based on your input files (e.g. a) Files that provide the data/content of your website - e.g. Markdown files AND b) Other types of static files - e.g CSS/JS/Images files) & a set of template files (derived from the templating engine used in the SSG).
+- Static Site Generators like Gatsby/Hugo/Jekyll generate the static HTML/CSS/JS files of your website based on A) your **input files** & B) a set of **template files**:
+	- **Input files**: a) Files that provide the data/content of your website - e.g. Markdown files (which will later be converted to HTML files using the SSG) AND b) Other types of static files - e.g CSS/JS/Image files
+	- **Template files**: Derived from the templating engine used in the SSG - e.g. Gatsby uses React as it's templating engine.
+	- For more information, can visit the Youtube video link **(reference 7)** & Gatsby repo link **(reference 8)** below to see how the markdown, css, js and image files are organized in a Gatsby-generated site.
 - These pre-built static HTML/CSS/JS files are then hosted on a CDN, which are served to users when requested.
-- Since they are pre-built, they load very quickly in users' browsers. The static content is then shown to the user (M portion).
-- Simultaneously, the javascript code in the JS file executes in the client/browser (J portion) to handle some logic, for instance, to call API endpoints (A portion) to fetch dynamic content.
-- The dynamic content will then be fetched from the API endpoint & then shown to the user (static + dynamic content together).
+- Since they are pre-built, they load very quickly in users' browsers. The static content is first shown to the user (M portion).
+- Next, the javascript code in the JS files executes in the client/browser (J portion) to handle some logic. For instance, the JS code executes to call API endpoints (A portion) to fetch dynamic content.
+- The dynamic content will then be fetched from the API endpoint & then be shown to the user (both static + dynamic content shown to the user now in your website).
 
 **Useful images for visualization**
 <br />
@@ -37,12 +40,14 @@ Based on my understanding, what is JAM stack:
 
 References:
 
-      [1] https://jamstack.org/
-      [2] https://www.fullstackpython.com/static-site-generator.html
-      [3] https://www.cloudflare.com/en-gb/learning/performance/static-site-generator/
-      [4] https://bejamas.io/discovery/static-site-generators/
-      [5] https://www.toptal.com/front-end/static-site-generators-comparison-2018
-      [6] https://devopedia.org/static-site-generators
+	[1] https://jamstack.org/
+	[2] https://www.fullstackpython.com/static-site-generator.html
+	[3] https://www.cloudflare.com/en-gb/learning/performance/static-site-generator/
+	[4] https://bejamas.io/discovery/static-site-generators/
+	[5] https://www.toptal.com/front-end/static-site-generators-comparison-2018
+	[6] https://devopedia.org/static-site-generators
+	[7] Gatsby Markdown Tutorial: https://www.youtube.com/watch?v=rgyTpQVDP44
+	[8] Gatsby-generated Website Source Code: https://github.com/guidingdigital/yt-gatsby-markdown 
 
 ## What is Markdown used for?
 
