@@ -155,10 +155,10 @@ References:
 
 17. Comments
 
-   - Use <!-- (two dashes) --\> or <\!--- (three dashes) -->
-   
-   <!-- This is a comment -->   
-   <!--- This is also a comment -->  
+- Use <!-- (two dashes) --\> or <\!--- (three dashes) -->
+
+   <!-- This is a comment -->
+   <!--- This is also a comment -->
 
 **B) Github Markdown syntax (Github has their own flavor of using Markdown)**
 
@@ -192,15 +192,18 @@ References:
    - [ ] Task 3
 
 4. To include diagrams in your GitHub Markdown files
-   - Use the mermaid syntax 
+
+   - Use the mermaid syntax (i.e. \`\`\`mermaid [insert your diagram] \`\`\`)
    - Reference: [GitHub Blog Mermaid syntax](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
-   ```mermaid
-   graph TD;
-         A-->B;
-         A-->C;
-         B-->D;
-         C-->D;
-   ```
+   - TD means Top Down, LR means Left Right, TB means Top Bottom, RL means Right Left
+   - Example: 
+      ```mermaid
+      graph TD;
+            A-->B;
+            A-->C;
+            B-->D;
+            C-->D;
+      ```
 
 5. Note there's also online 'Markdown to HTML code' converters online that convert your Markdown code to HTML code (in case you want to see how it looks like in HTML):
 
