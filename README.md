@@ -184,7 +184,18 @@ References:
    - [x] Task 2
    - [ ] Task 3
 
-4. Note there's also online 'Markdown to HTML code' converters online that convert your Markdown code to HTML code (in case you want to see how it looks like in HTML):
+4. To include diagrams in your GitHub Markdown files
+   - Use the mermaid syntax 
+   - Reference: [GitHub Blog Mermaid syntax](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+   ```mermaid
+   graph TD;
+         A-->B;
+         A-->C;
+         B-->D;
+         C-->D;
+   ```
+
+5. Note there's also online 'Markdown to HTML code' converters online that convert your Markdown code to HTML code (in case you want to see how it looks like in HTML):
 
    - https://markdowntohtml.com/
 
