@@ -153,6 +153,13 @@ References:
 
     <jeff@gmail.com>
 
+17. Comments
+
+   - Use <!-- (two dashes) --\> or <\!--- (three dashes) -->
+   
+   <!-- This is a comment -->   
+   <!--- This is also a comment -->  
+
 **B) Github Markdown syntax (Github has their own flavor of using Markdown)**
 
 1. Code Blocks (in GitHub) - Use triple backticks \`\`\` \`\`\`
