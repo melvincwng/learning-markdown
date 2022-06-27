@@ -205,7 +205,23 @@ References:
             C-->D;
       ```
 
-5. Note there's also online 'Markdown to HTML code' converters online that convert your Markdown code to HTML code (in case you want to see how it looks like in HTML):
+5. Note & Warning blockquotes (follow the syntax below)
+
+<!-- 
+   > **Note**
+   > This is a note
+
+   > **Warning**
+   > This is a warning 
+-->
+
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+
+6. Note there's also online 'Markdown to HTML code' converters online that convert your Markdown code to HTML code (in case you want to see how it looks like in HTML):
 
    - https://markdowntohtml.com/
 
