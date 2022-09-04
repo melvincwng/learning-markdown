@@ -235,3 +235,4 @@ References:
 4. https://en.m.wikipedia.org/wiki/Jamstack
 5. https://jamstack.org/
 6. https://blog.dreamfactory.com/the-importance-of-loose-coupling-in-rest-api-design/
+7. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
