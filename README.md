@@ -6,7 +6,7 @@ A repository where I document my process of learning the Markdown language
 
 Markdown is a lightweight markup language that converts text to HTML. In short, it helps to format text that appear on the screen.
 
-A markdown file (as identified from its .md or .markdown extension) is converted by a Markdown application (containing a markdown processor/parser) which essentially converts that .md file into a .html file.
+A Markdown file (.md or .markdown extension) is converted by a Markdown application (containing a markdown processor/parser) into a HTML file.
 
 ## Why am I learning Markdown?
 
