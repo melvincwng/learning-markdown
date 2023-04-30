@@ -36,8 +36,8 @@ Based on my understanding, what is JAM stack:
 <img src="https://devopedia.org/images/article/78/9117.1525882869.jpg" width="400px" height="300px">
 <img src="https://www.fullstackpython.com/img/visuals/pelican-flow.jpg" width="400px" height="300px">
 <img src="https://uploads.toptal.io/blog/image/126943/toptal-blog-image-1534876856505-558f1c71902d47812f218825d358fe4b.png" width="400px" height="300px">
-<img src="https://bejamas.io/static/1b59935d7ad1796f1c6373d45ba31b76/05035/ssg--intro-1--light.png" width="400px" height="300px">
-<img src="https://bejamas.io/static/5e89ac2073c9fc3286c7d284b04e5196/07564/ssg--intro-2--light.png" width="400px" height="300px">
+<img src="https://web.archive.org/web/20220321081913if_/https://bejamas.io/static/1b59935d7ad1796f1c6373d45ba31b76/05035/ssg--intro-1--light.png" width="400px" height="300px">
+<img src="https://web.archive.org/web/20220321081914if_/https://bejamas.io/static/5e89ac2073c9fc3286c7d284b04e5196/07564/ssg--intro-2--light.png" width="400px" height="300px">
 </span>
 
 References:
